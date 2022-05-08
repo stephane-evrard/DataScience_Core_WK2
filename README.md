@@ -6,7 +6,7 @@
 ## Project setup instructions
 
 ### *To start using this project use the following commands:*
-* git clone  https://github.com/stephane-evrard/DataScience_Prep_WK3.git
+* git clone  https://github.com/stephane-evrard/DataScience_Core_WK2.git
 * cd Moringa_DataScience_Core_WK2_IP#
 * code .
 
